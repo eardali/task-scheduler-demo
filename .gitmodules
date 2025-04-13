@@ -1,0 +1,3 @@
+[submodule "arm-task-scheduler"]
+	path = arm-task-scheduler
+	url = https://github.com/eardali/arm-task-scheduler.git

@@ -1,0 +1,4 @@
+STM32CubeIDE/*/
+STM32CubeIDE/*.launch
+
+!STM32CubeIDE/Example
